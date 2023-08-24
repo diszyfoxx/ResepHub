@@ -1,4 +1,5 @@
 baseURL = 'http://resephub.netlify.app/'
+author = 'Dhifaf Ikhsan Sabil'
 languageCode = 'en-us'
 title = 'ResepHub 🍽️🍷'
 pygmentsUseClasses = true

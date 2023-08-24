@@ -197,3 +197,12 @@ img {
   text-align: center;
   font-size: 2rem;
 }
+
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.opacity-60 {
+  opacity: 0.6;
+}
