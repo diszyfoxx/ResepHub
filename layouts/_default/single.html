@@ -6,18 +6,14 @@
   {{ end }}
 </ul>
 
-<div class="text-sm antialiased opacity-60">
-  {{ if .Date }}
-  <time>{{ .Date | time.Format ":date_medium" }}</time>
-  {{ end }}<!---->
+<div class="content">{{ .Content }}</div>
+
+<div class="contributor">Contributor:
   {{ $single_author := or .Params.Author site.Author.name }}
   <!---->
   {{ if $single_author }}
-  <span class="mx-1">&middot;</span>
   <span>{{ $single_author }}</span>
   {{ end }}
 </div>
-
-<div class="content">{{ .Content }}</div>
 
 {{- end }}{{- /* end main */ -}}
