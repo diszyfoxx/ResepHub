@@ -1,0 +1,28 @@
+<table class="tableList">
+  <thead>
+    <tr>
+      {{- with site.Params.headers }}
+      <th>{{.key}}</th>
+      <th>{{.value}}</th>
+      {{- end }}
+    </tr>
+  </thead>
+  <tbody id="tableListBody">
+    {{- range .RegularPages}}
+    <tr>
+      <td><a href="{{.Permalink}}">{{ .Title }}</a></td>
+      <td>
+        {{- if site.Params.showDescriptioninHome }}
+        {{ .Description }}
+        {{- else }}
+        <ul class="tagsList">
+          {{- range (.GetTerms "tags") }}
+          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+          {{- end }}
+        </ul>
+        {{- end }}
+      </td>
+    </tr>
+    {{- end }}
+  </tbody>
+</table>

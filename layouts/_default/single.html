@@ -1,0 +1,11 @@
+{{- define "main" }}
+
+<ul class="tagsList single">
+  {{ range (.GetTerms "tags") }}
+  <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+  {{ end }}
+</ul>
+
+<div class="content">{{ .Content }}</div>
+
+{{- end }}{{- /* end main */ -}}
