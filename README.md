@@ -29,3 +29,7 @@ ResepHub is an open-source project that focuses on providing an online cookbook 
 - Folder names should be the name of the tags name with words separated by hyphens (`-`). Not underscores, and definitely not spaces.
 - Create a new file named `_index.md` in the folder
 - You can refer to the existing file for the format.
+
+## License
+
+This website and all its content is in the public domain. By submitting text or images or anything else to this repository, you waive any pretense of ownership to it, although you are welcome and recommended to give yourself credit at the bottom of a submitted page for you adding it (including personal or donation links).
