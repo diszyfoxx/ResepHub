@@ -1,4 +1,4 @@
-baseURL = 'http://resephub.netlify.app/'
+baseURL = 'https://resephub.netlify.app/'
 author = 'Dhifaf Ikhsan Sabil'
 languageCode = 'en-us'
 title = 'ResepHub 🍽️🍷'
@@ -28,7 +28,7 @@ enableInlineShortcodes = true
   tags = "tags"
 
 [outputs]
-    home = [ "HTML", "JSON", "RSS"]
+  home = [ "HTML", "JSON", "RSS"]
 
 [privacy]
   [privacy.vimeo]
