@@ -17,7 +17,9 @@ ResepHub is an open-source project that focuses on providing an online cookbook 
 - File names should be the name of the dish with words separated by hyphens (`-`). Not underscores, and definitely not spaces.
 - Recipe must be easy to make.
 - If you want to add an image to your recipes make sure **it looks appetizing**.
-- You can refer to the existing file for the format.
+- You can refer to the existing file for the format or you can check following cheatsheet:
+    - [Markdown cheatsheet](https://www.markdownguide.org/tools/hugo/)
+    - [Emoji cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ### Tags
 
