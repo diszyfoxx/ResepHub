@@ -36,7 +36,7 @@ This V60 method is Tetsu Kasuya's winning coffee recipe in World Brewers Cup 201
 4. Start timer. Pour 100g of hot water in a continuous circular motion, moving from the centre point into a wider circle and then back to the centre point. Complete this pour in 10 seconds, then pause.
 5. Pour another 4 times at intervals of 45 seconds. To highlight the sweetness of your coffee, refer to the following brewing phases for the amount of each pour:
 
-    Time  | Coffee Scale Reading | Wateer Amount to Add 
+    Time  | Coffee Scale Reading | Water Amount to Add 
 ----------|----------------------|---------------------
     00:00 | 0g                   | 100g
     00:45 | 100g                 | 140g
