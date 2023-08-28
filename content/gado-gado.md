@@ -26,7 +26,7 @@ Gado-gado is an Indonesian version of a mixed salad. Gado-gado means â€œmix-mixâ
 - 1 cucumber
 - 250g potato
 - 3 boiled eggs
-- 50g tablespoon peanut sauce
+- 50g tbsp peanut sauce
 - 2 tbsp soy sauce
 
 ## Directions
