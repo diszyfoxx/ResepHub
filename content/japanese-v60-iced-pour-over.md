@@ -15,12 +15,12 @@ Japanese V60, also known as flash brew, brews hot coffee directly onto ice. Only
 - 🍽️ Servings: 1 glass
 
 ## Pour Over Kit
-- Hario V60 Plastic Dripper
+- V60 Plastic Dripper
 - V60 Server
 - V60 Paper filter
-- Stove kettle with thermometer (not a gooseneck — pour low and slow)
+- Kettle
 - Digital scale
-- Timemore Chestnut S5 Pro grinder
+- Coffee Grinder
 
 ## Ingredients
 
